@@ -1,0 +1,21 @@
+{
+  "name": "react-pages",
+  "version": "1.0.0",
+  "description": "This is React here for learning",
+  "main": "react.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(github.com/Rohanpal111/mysite)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "rohan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
